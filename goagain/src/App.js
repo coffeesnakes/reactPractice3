@@ -1,10 +1,12 @@
 import React from 'react';
 import faker from 'faker';
 import Comments from './Comments.js';
+import ApprovalCard from './ApprovalCard.js'
 
 const App = () => {
   return (
     <div className="ui container comments">
+      < ApprovalCard />
       < Comments
         author="sadgirl"
         timeA="Today at 9:35 PM"
