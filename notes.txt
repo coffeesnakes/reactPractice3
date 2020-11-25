@@ -1,0 +1,6 @@
+props === properties
+
+
+Props component is a system for passing data from a parent component down to a child component.
+
+to customize looks or user interaction.
