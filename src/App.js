@@ -18,7 +18,7 @@ const App = () => {
       < Comments
         author="Alex"
         timeA="Yesterday at 6:41 PM"
-        txt="let's get it bitches woooo"
+        txt="let's get it woooo"
         avatar={faker.image.people()}
       />
       </ApprovalCard>
