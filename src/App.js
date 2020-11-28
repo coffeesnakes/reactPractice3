@@ -6,6 +6,12 @@ import ApprovalCard from './ApprovalCard.js'
 const App = () => {
   return (
     <div className="ui container comments">
+      < ApprovalCard >
+      <div>
+        <h4>WARNING WARNING</h4>
+      hello friend, this is a plaintext new card
+      </div>
+      </ApprovalCard>
       < ApprovalCard>
       < Comments
         author="sadgirl"
